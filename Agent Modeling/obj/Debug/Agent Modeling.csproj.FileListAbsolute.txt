@@ -1,0 +1,10 @@
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\obj\Debug\Agent Modeling.csprojAssemblyReference.cache
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\obj\Debug\Agent_Modeling.Form1.resources
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\obj\Debug\Agent_Modeling.Properties.Resources.resources
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\obj\Debug\Agent Modeling.csproj.GenerateResource.cache
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\obj\Debug\Agent Modeling.csproj.CoreCompileInputs.cache
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\bin\Debug\Agent Modeling.exe.config
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\bin\Debug\Agent Modeling.exe
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\bin\Debug\Agent Modeling.pdb
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\obj\Debug\Agent Modeling.exe
+C:\Users\rgarc\source\repos\Agent Modeling\Agent Modeling\obj\Debug\Agent Modeling.pdb
